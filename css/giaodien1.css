@@ -1,0 +1,28 @@
+body{
+    margin-top: 0px;
+}
+.wrapper
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.banner
+{
+    width: 100%;
+    height: auto;
+}
+.menungang
+{
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+}
+.slideshow
+{
+    width: 100%;
+    height: auto;
+    background-color: blue;
+}
